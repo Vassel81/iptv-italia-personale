@@ -33,6 +33,16 @@ def key(meta):
         return "id:" + match.group(1).strip().casefold()
     return "name:" + re.sub(r"\s+", " ", meta.split(",", 1)[-1].strip().casefold())
 
+def is_sport(meta):
+    group = re.search(r'group-title="([^"]*)"', meta, re.I)
+    label = (group.group(1) if group else "").casefold()
+    return any(word in label for word in ("sport", "calcio", "football", "tennis", "basket"))
+
+def sport_meta(meta):
+    if re.search(r'group-title="[^"]*"', meta):
+        return re.sub(r'group-title="[^"]*"', 'group-title="Sport"', meta, count=1)
+    return meta.replace("#EXTINF:", '#EXTINF: group-title="Sport" ', 1)
+
 def name(meta):
     return meta.split(",", 1)[-1].strip()
 
@@ -85,9 +95,12 @@ def main():
             results[futures[future]] = future.result()
 
     output = ["#EXTM3U"]
+    sport_extra = 0
     switched, suspected, reachable = [], [], 0
     for variants in grouped.values():
-        primary = variants[0]
+        # Per lo sport preferiamo la classificazione Sport quando disponibile.
+        sport_variants = [v for v in variants if is_sport(v[0])]
+        primary = sport_variants[0] if sport_variants else variants[0]
         chosen = primary
         state = results.get(primary[2], "unknown")
         if state == "missing":
@@ -102,12 +115,24 @@ def main():
             suspected.append(name(primary[0]))
         if results.get(chosen[2]) == "reachable":
             reachable += 1
-        output.extend([chosen[0], *chosen[1], chosen[2]])
+        output.extend([sport_meta(chosen[0]) if sport_variants else chosen[0], *chosen[1], chosen[2]])
+        # Mantieni anche flussi sportivi alternativi con URL diversi.
+        if sport_variants:
+            used = {chosen[2]}
+            for alternate in variants:
+                if alternate[2] in used:
+                    continue
+                used.add(alternate[2])
+                alt_meta = sport_meta(alternate[0])
+                alt_meta = alt_meta.rsplit(",", 1)[0] + "," + name(alternate[0]) + " (alternativa)"
+                output.extend([alt_meta, *alternate[1], alternate[2]])
+                sport_extra += 1
 
     OUTPUT.write_text("\n".join(output) + "\n", encoding="utf-8")
     report = [
         "Controllo indicativo dei collegamenti M3U",
-        f"Canali pubblicati: {len(grouped)}",
+        f"Canali pubblicati: {len(grouped) + sport_extra}",
+        f"Flussi sportivi alternativi aggiunti: {sport_extra}",
         f"Link che rispondono al test: {reachable}",
         f"Link da verificare nel player: {len(suspected)}",
         f"Link sostituiti con alternativa raggiungibile: {len(switched)}",
@@ -125,7 +150,7 @@ def main():
         *(errors or ["Nessuno"]),
     ]
     REPORT.write_text("\n".join(report) + "\n", encoding="utf-8")
-    print(f"Pubblicati {len(grouped)} canali, {len(switched)} alternative selezionate")
+    print(f"Pubblicati {len(grouped) + sport_extra} canali, {sport_extra} flussi sportivi aggiuntivi")
 
 if __name__ == "__main__":
     main()
