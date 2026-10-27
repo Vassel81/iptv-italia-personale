@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 712
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 405
-Link da verificare nel player: 307
+Link che rispondono al test: 403
+Link da verificare nel player: 309
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -53,6 +53,7 @@ Rai 4K
 4 You Tv
 Abc Tv
 AB Channel
+Alpauno
 Antenna 3 Veneto Nord Est
 Antenna Sud
 Antenna Sud Extra
@@ -72,8 +73,6 @@ Castrovillari Tv
 Cremona 1
 Cusano News 7
 Delta Tv
-Di.Tv 80
-Digital Tv7 Benevento
 Donna Shopping Tv
 Easy Tv Canale 190
 EQUtv
@@ -107,6 +106,7 @@ NTI Canale 271
 News24 City
 Nuova TV Nazionale
 Nuova Tv 2
+Nuvola Tv
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -127,6 +127,7 @@ RDE Tv
 Reggio Tv
 Rei Tv
 Rete 8 Vga
+Rete Sole
 Rete Veneta
 Roma Tv 82
 Rossini Tv
@@ -134,12 +135,14 @@ RTC Quarta Rete
 RTC Telecalabria
 RTI Calabria
 RTL 102.5 + Plus
+RTM Manduria
 RTR99 Tv
 SL 48 Tv
 ST Europe Channel
 Sardegna 1
 Set Tv Cilento
 Sesta Rete
+Sicilia 24 Tv
 Sicilia Tv
 Stiletv
 Supertv
@@ -223,12 +226,11 @@ Video Nola
 Video Touring Tv
 Videolina
 Videotelecarnia
-Vintage Radio Tv
 Vuemme Tv
 Webcom Tv
+WLTV
 Yvii Tv
 Zerouno Tv Music
-Zerouno Tv News
 Radio Colonna Tv
 Euronews Italiano
 TRM h24
@@ -246,7 +248,6 @@ Canale 5 HD
 Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
-DI.TV 80 (720p)
 Donna TV (480p)
 Entella TV (720p) [Not 24/7]
 eTv Marche (720p)
@@ -259,6 +260,7 @@ Iris [Geo-blocked]
 Iris HD (1080p)
 Italia 1 [Geo-blocked]
 Italia 7 (576p)
+Iunior TV (1080p)
 La5 [Geo-blocked]
 LA7d (720p)
 Lazio Style Channel HD (720p)
@@ -283,6 +285,7 @@ Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
 RTC Telecalabria (720p) [Not 24/7]
+RTM TV (1080p)
 Sportitalia 24 (720p) [Geo-blocked]
 Sportitalia Motori (720p) [Geo-blocked]
 Sportitalia Solocalcio (1080p)
@@ -309,7 +312,6 @@ TeleVenezia (576p)
 Top Crime [Geo-blocked]
 Trentino TV (720p) [Not 24/7]
 TSN TeleSondrio News (480p) [Not 24/7]
-TV7 Benevento (288p) [Not 24/7]
 TV7 Triveneta (562p)
 TV Sei (576p) [Not 24/7]
 TVL (720p) [Not 24/7]
