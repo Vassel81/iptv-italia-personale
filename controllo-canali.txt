@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
-Canali pubblicati: 715
+Canali pubblicati: 716
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 398
-Link da verificare nel player: 317
+Link che rispondono al test: 391
+Link da verificare nel player: 325
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -74,11 +74,13 @@ Castrovillari Tv
 Cremona 1
 Cusano News 7
 Delta Tv
+Digital Tv7 Benevento
 Donna Shopping Tv
 Easy Tv Canale 190
 Entella Tv
 EQUtv
 Equos Tv
+Etna Espresso Channel
 è Tv Marche
 è Tv Rete7
 è Tv Umbria
@@ -138,6 +140,7 @@ RTC Quarta Rete
 RTC Telecalabria
 RTI Calabria
 RTL 102.5 + Plus
+RTM Manduria
 RTR99 Tv
 SL 48 Tv
 ST Europe Channel
@@ -154,6 +157,7 @@ TVL (TV Libera Pistoia)
 Tci
 Teatro Tv
 Tele A
+Tele Acras
 Tele Arena
 Tele Bari
 Tele Belluno
@@ -165,7 +169,6 @@ Tele Liberta' HD
 Tele Nostra
 Tele Occidente
 Tele Oltre
-Tele One
 Tele Pace 1
 Tele Pace 2
 Tele Pace 3
@@ -230,10 +233,12 @@ Video Nola
 Video Touring Tv
 Videolina
 Videotelecarnia
+Vintage Radio Tv
 Vuemme Tv
 Webcom Tv
 Yvii Tv
 Zerouno Tv Music
+Zerouno Tv News
 Radio Colonna Tv
 Euronews Italiano
 TRM h24
@@ -252,7 +257,7 @@ Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
 Donna TV (480p)
-Entella TV (720p) [Not 24/7]
+Etna Espresso Channel (720p)
 eTv Marche (720p)
 eTv Rete 7 (720p)
 Fano TV (1080p)
@@ -291,6 +296,7 @@ Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
 RTC Telecalabria (720p) [Not 24/7]
+RTM TV (1080p)
 Sportitalia 24 (720p) [Geo-blocked]
 Sportitalia Motori (720p) [Geo-blocked]
 Sportitalia Solocalcio (1080p)
@@ -298,9 +304,9 @@ Super J TV Teramo (720p)
 Super TV Oristano (720p) [Not 24/7]
 SuperTennis (1080p)
 T9 (288p)
+Taurianova TV (720p)
 Teatro TV (720p)
 Tele Liguria Sud (576p)
-Tele One 16
 Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
 Tele Radio Sciacca (240p) [Not 24/7]
@@ -319,12 +325,14 @@ TLT Molise (1080p)
 Top Crime [Geo-blocked]
 Trentino TV (720p) [Not 24/7]
 TSN TeleSondrio News (480p) [Not 24/7]
+TV7 Benevento (288p) [Not 24/7]
 TV7 Triveneta (562p)
 TV Sei (576p) [Not 24/7]
 TV Yes Italia (720p)
 TVL (720p) [Not 24/7]
 TVRS (576p) [Not 24/7]
 Twentyseven HD (1080p) [Geo-blocked]
+Value 24 TV
 Vera TV (1080p) [Not 24/7]
 Video Rola (1080p)
 Videolina Sardegna (404p) [Not 24/7]
