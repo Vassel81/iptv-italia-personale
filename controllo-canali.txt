@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
-Canali pubblicati: 716
+Canali pubblicati: 717
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 391
-Link da verificare nel player: 325
+Link che rispondono al test: 413
+Link da verificare nel player: 304
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -53,7 +53,6 @@ Rai 4K
 4 You Tv
 Abc Tv
 AB Channel
-Alpauno
 Antenna 3 Veneto Nord Est
 Antenna Sud
 Antenna Sud Extra
@@ -61,7 +60,6 @@ Arte Network Orler
 Azzurra Tv Vco
 Basilicata 1 Tv
 Bergamo Tv
-BOM Channel
 ByoBlu
 Calabria Uno Tv
 Calabria tv
@@ -74,10 +72,8 @@ Castrovillari Tv
 Cremona 1
 Cusano News 7
 Delta Tv
-Digital Tv7 Benevento
 Donna Shopping Tv
 Easy Tv Canale 190
-Entella Tv
 EQUtv
 Equos Tv
 Etna Espresso Channel
@@ -97,7 +93,6 @@ Idea Plus
 Italia 7
 Italia 8 Prestige
 Italia Channel
-Iunior Tv
 L'Altro Corriere Tv
 La tr3 Marsala
 Lazio Tv
@@ -105,13 +100,13 @@ Love in Venice
 Lucania Tv
 Matrix Tv
 Mediterranea Tv
-Medjugorje Italia Tv
 Medjugorje Tv Puglia
 Motori Tv
 NTI Canale 271
 News24 City
 Nuova TV Nazionale
 Nuova Tv 2
+Nuvola Tv
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -120,7 +115,6 @@ Paradise Tv
 Parole di Vita
 Partenope Tv
 Pop Tv
-Prima Tv Sicilia
 PrimaFREE
 Primantenna Torino
 Primocanale
@@ -140,14 +134,12 @@ RTC Quarta Rete
 RTC Telecalabria
 RTI Calabria
 RTL 102.5 + Plus
-RTM Manduria
 RTR99 Tv
 SL 48 Tv
 ST Europe Channel
 Sardegna 1
 Set Tv Cilento
 Sesta Rete
-Sicilia 24 Tv
 Sicilia Tv
 Stiletv
 Supertv
@@ -157,7 +149,6 @@ TVL (TV Libera Pistoia)
 Tci
 Teatro Tv
 Tele A
-Tele Acras
 Tele Arena
 Tele Bari
 Tele Belluno
@@ -210,7 +201,6 @@ Telesud Trapani
 Telesveva
 Teleuniverso
 TG Norba 24
-TLT Molise
 Tremedia Tv
 Trentino Tv
 Tuscia Sabina 2000Tv
@@ -233,12 +223,10 @@ Video Nola
 Video Touring Tv
 Videolina
 Videotelecarnia
-Vintage Radio Tv
 Vuemme Tv
 Webcom Tv
 Yvii Tv
 Zerouno Tv Music
-Zerouno Tv News
 Radio Colonna Tv
 Euronews Italiano
 TRM h24
@@ -250,7 +238,6 @@ Alma TV (576p)
 Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
-Bom Channel (720p)
 Canale 5 [Geo-blocked]
 Canale 5 HD
 Canale Dieci (540p) [Not 24/7]
@@ -276,17 +263,14 @@ Lazio TV (576p)
 Love The Planet IT (1080p) [Geo-blocked]
 Mediaset Extra [Geo-blocked]
 MediterraniaTV (1080p)
-Medjugorje Italia TV (480p)
 Nickelodeon (Italy)
 NTN (Italy) (720p)
-Paci Contemporary Channel (720p)
 Paradise TV [Geo-blocked]
 Passione Lotto (300p)
 Pluto TV Film Ancora Piu Romantici
 Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
 Prima Free
-Prima TV (720p)
 PrimAntenna TV (720p)
 Rai 4 (576p)
 Rai News 24 (720p)
@@ -296,7 +280,6 @@ Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
 RTC Telecalabria (720p) [Not 24/7]
-RTM TV (1080p)
 Sportitalia 24 (720p) [Geo-blocked]
 Sportitalia Motori (720p) [Geo-blocked]
 Sportitalia Solocalcio (1080p)
@@ -304,9 +287,7 @@ Super J TV Teramo (720p)
 Super TV Oristano (720p) [Not 24/7]
 SuperTennis (1080p)
 T9 (288p)
-Taurianova TV (720p)
 Teatro TV (720p)
-Tele Liguria Sud (576p)
 Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
 Tele Radio Sciacca (240p) [Not 24/7]
@@ -321,11 +302,9 @@ Telestense (720p)
 Telesud Trapani (720p) [Not 24/7]
 Televallo (576p)
 TeleVenezia (576p)
-TLT Molise (1080p)
 Top Crime [Geo-blocked]
 Trentino TV (720p) [Not 24/7]
 TSN TeleSondrio News (480p) [Not 24/7]
-TV7 Benevento (288p) [Not 24/7]
 TV7 Triveneta (562p)
 TV Sei (576p) [Not 24/7]
 TV Yes Italia (720p)
