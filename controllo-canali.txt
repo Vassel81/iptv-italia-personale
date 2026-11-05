@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 718
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 417
-Link da verificare nel player: 301
+Link che rispondono al test: 411
+Link da verificare nel player: 307
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -105,6 +105,7 @@ NTI Canale 271
 News24 City
 Nuova TV Nazionale
 Nuova Tv 2
+Nuvola Tv
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -154,7 +155,6 @@ Tele Cupole
 Tele Estense
 Tele Ischia
 Tele Liberta' HD
-Tele Molise
 Tele Nostra
 Tele Occidente
 Tele Oltre
@@ -217,7 +217,6 @@ Uno Tv
 Uno4 Tv
 Vera Tv
 VB33
-Video Calabria
 Video Nola
 Video Touring Tv
 Videolina
@@ -233,21 +232,23 @@ Teleroma 56
 TeleRadioStereo
 7 RadioVisione (720p)
 20 [Geo-blocked]
+50 Canale
 Adnkronos (720p)
 Alma TV (576p)
 Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
+Bergamo TV (1080p)
 Canale 5 [Geo-blocked]
 Canale 5 HD
 Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
+DellaTV (720p)
 Donna TV (480p)
 eTv Marche (720p)
 eTv Rete 7 (720p)
 Fano TV (1080p)
-Geordie Shore (Germany)
 GO-TV Canale 163 (720p)
 Gold TV (576p)
 Gold TV Sat (576p)
@@ -264,6 +265,7 @@ Mediaset Extra [Geo-blocked]
 MediterraniaTV (1080p)
 Nickelodeon (Italy)
 NTN (Italy) (720p)
+Paci Contemporary Channel (720p)
 Paradise TV [Geo-blocked]
 Passione Lotto (300p)
 Pluto TV Film Ancora Piu Romantici
@@ -271,7 +273,9 @@ Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
 PrimAntenna TV (720p)
 Radio Iglesias (576p) [Geo-blocked]
+Radio Iglesias Sardegna (576p) [Geo-blocked]
 Rai 4 (576p)
+Rai Gulp (1080p)
 Rai News 24 (720p)
 Rai Premium
 Rai Scuola (576p) [Geo-blocked]
@@ -280,6 +284,7 @@ Reteveneta (480p)
 Rossini TV (720p)
 RTC Telecalabria (720p) [Not 24/7]
 Sportitalia 24 (720p) [Geo-blocked]
+Sportitalia (1080p)
 Sportitalia Motori (720p) [Geo-blocked]
 Sportitalia Solocalcio (1080p)
 Super J TV Teramo (720p)
@@ -291,6 +296,7 @@ Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
 Tele Radio Sciacca (240p) [Not 24/7]
 Teleacras (576p)
+Telecyan (720p)
 Telegranda (720p) [Not 24/7]
 Telejato (720p)
 Teleliberta (486p) [Not 24/7]
