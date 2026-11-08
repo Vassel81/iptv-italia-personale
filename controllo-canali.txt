@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
-Canali pubblicati: 722
+Canali pubblicati: 725
 Flussi sportivi alternativi aggiunti: 0
 Link che rispondono al test: 418
-Link da verificare nel player: 304
+Link da verificare nel player: 307
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -72,7 +72,6 @@ Castrovillari Tv
 Cremona 1
 Cusano News 7
 Delta Tv
-Digital Tv7 Benevento
 Donna Shopping Tv
 Easy Tv Canale 190
 EQUtv
@@ -105,6 +104,7 @@ Motori Tv
 NTI Canale 271
 News24 City
 Nuova TV Nazionale
+Nuova Tv 2
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -113,6 +113,7 @@ Paradise Tv
 Parole di Vita
 Partenope Tv
 Pop Tv
+Prima Tv Sicilia
 Primantenna Torino
 Primocanale
 Quarto Canale Flegreo
@@ -239,6 +240,7 @@ Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
 BTL TV (Netherlands) (1080p)
+Calabria TV (1080p)
 Canale 5 [Geo-blocked]
 Canale 5 HD
 Canale Dieci (540p) [Not 24/7]
@@ -268,8 +270,10 @@ Passione Lotto (300p)
 Pluto TV Film Ancora Piu Romantici
 Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
+Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
 Quarto Canale Flegreo (720p)
+Radio Iglesias (576p) [Geo-blocked]
 Radio TV Serie A
 Rai 4 (576p)
 Rai Gulp (1080p)
@@ -306,7 +310,6 @@ TeleVenezia (576p)
 Top Crime [Geo-blocked]
 Trentino TV (720p) [Not 24/7]
 TSN TeleSondrio News (480p) [Not 24/7]
-TV7 Benevento (288p) [Not 24/7]
 TV7 Triveneta (562p)
 TV Sei (576p) [Not 24/7]
 TVL (720p) [Not 24/7]
