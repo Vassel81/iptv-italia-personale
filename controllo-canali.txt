@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 725
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 418
-Link da verificare nel player: 307
+Link che rispondono al test: 416
+Link da verificare nel player: 309
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -220,6 +220,7 @@ Uno4 Tv
 Vera Tv
 VB33
 Video Nola
+Video Star Tv Sicilia
 Video Touring Tv
 Videolina
 Videotelecarnia
@@ -234,18 +235,19 @@ Teleroma 56
 TeleRadioStereo
 7 RadioVisione (720p)
 20 [Geo-blocked]
+50 Canale
 Adnkronos (720p)
 Alma TV (576p)
 Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
 BTL TV (Netherlands) (1080p)
-Calabria TV (1080p)
 Canale 5 [Geo-blocked]
 Canale 5 HD
 Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
+DellaTV (720p)
 Donna TV (480p)
 eTv Marche (720p)
 eTv Rete 7 (720p)
@@ -273,7 +275,6 @@ Pluto TV Notti di Terrore
 Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
 Quarto Canale Flegreo (720p)
-Radio Iglesias (576p) [Geo-blocked]
 Radio TV Serie A
 Rai 4 (576p)
 Rai Gulp (1080p)
@@ -296,6 +297,7 @@ Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
 Tele Radio Sciacca (240p) [Not 24/7]
 Teleacras (576p)
+Telecyan (720p)
 Telegranda (720p) [Not 24/7]
 Telejato (720p)
 Teleliberta (486p) [Not 24/7]
