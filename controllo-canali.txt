@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 725
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 416
-Link da verificare nel player: 309
+Link che rispondono al test: 411
+Link da verificare nel player: 314
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -109,6 +109,7 @@ Odeon 24
 Ofanto Tv
 Ora Tv
 Orler Tv
+Otto Channel
 Paradise Tv
 Parole di Vita
 Partenope Tv
@@ -177,6 +178,7 @@ Tele Radio Sciacca
 Tele Sirio
 Tele Spazio Messina
 Tele Sud Puglia
+Tele Tricolore
 Tele Tutto
 Tele Tutto 2
 Tele Tutto 24
@@ -267,6 +269,7 @@ Love The Planet IT (1080p) [Geo-blocked]
 Mediaset Extra [Geo-blocked]
 MediterraniaTV (1080p)
 NTN (Italy) (720p)
+Otto Channel (480p)
 Paradise TV [Geo-blocked]
 Passione Lotto (300p)
 Pluto TV Film Ancora Piu Romantici
@@ -275,6 +278,7 @@ Pluto TV Notti di Terrore
 Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
 Quarto Canale Flegreo (720p)
+Radio Iglesias (576p) [Geo-blocked]
 Radio TV Serie A
 Rai 4 (576p)
 Rai Gulp (1080p)
@@ -307,6 +311,7 @@ Telenord (Italy) (576p) [Not 24/7]
 Telepavia (720p)
 Telestense (720p)
 Telesud Trapani (720p) [Not 24/7]
+Teletricolore (480p) [Not 24/7]
 Televallo (576p)
 TeleVenezia (576p)
 Top Crime [Geo-blocked]
