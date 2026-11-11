@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
-Canali pubblicati: 725
+Canali pubblicati: 736
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 411
-Link da verificare nel player: 314
+Link che rispondono al test: 413
+Link da verificare nel player: 323
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -72,6 +72,7 @@ Castrovillari Tv
 Cremona 1
 Cusano News 7
 Delta Tv
+Di.Tv 80
 Donna Shopping Tv
 Easy Tv Canale 190
 EQUtv
@@ -79,6 +80,7 @@ Equos Tv
 è Tv Marche
 è Tv Rete7
 è Tv Umbria
+Euro Tv
 Extra Tv
 FM Tv Marche
 Fano Tv
@@ -99,6 +101,7 @@ Love in Venice
 Lucania Tv
 Matrix Tv
 Mediterranea Tv
+Medjugorje Italia Tv
 Medjugorje Tv Puglia
 Motori Tv
 NTI Canale 271
@@ -117,7 +120,6 @@ Pop Tv
 Prima Tv Sicilia
 Primantenna Torino
 Primocanale
-Quarto Canale Flegreo
 Radio Immagine Tv
 Radio Radiosa Tv
 Radio Roma
@@ -140,6 +142,7 @@ ST Europe Channel
 Sardegna 1
 Set Tv Cilento
 Sesta Rete
+Sicilia 24 Tv
 Sicilia Tv
 Stiletv
 Supertv
@@ -156,6 +159,7 @@ Tele Chiara
 Tele Cupole
 Tele Estense
 Tele Ischia
+Tele Jonio
 Tele Liberta' HD
 Tele Molise
 Tele Nostra
@@ -178,7 +182,6 @@ Tele Radio Sciacca
 Tele Sirio
 Tele Spazio Messina
 Tele Sud Puglia
-Tele Tricolore
 Tele Tutto
 Tele Tutto 2
 Tele Tutto 24
@@ -226,10 +229,12 @@ Video Star Tv Sicilia
 Video Touring Tv
 Videolina
 Videotelecarnia
+Vintage Radio Tv
 Vuemme Tv
 Webcom Tv
 Yvii Tv
 Zerouno Tv Music
+Zerouno Tv News
 Radio Colonna Tv
 Euronews Italiano
 TRM h24
@@ -237,7 +242,6 @@ Teleroma 56
 TeleRadioStereo
 7 RadioVisione (720p)
 20 [Geo-blocked]
-50 Canale
 Adnkronos (720p)
 Alma TV (576p)
 Antenna Sud (720p)
@@ -250,9 +254,13 @@ Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
 DellaTV (720p)
+DI.TV 80 (720p)
+Discovery Channel (Italy) HD (720p)
 Donna TV (480p)
+Entella TV (720p) [Not 24/7]
 eTv Marche (720p)
 eTv Rete 7 (720p)
+Euro TV (Italy) (720p) [Not 24/7]
 Fano TV (1080p)
 GO-TV Canale 163 (720p)
 Gold TV (576p)
@@ -268,6 +276,7 @@ Lazio TV (576p)
 Love The Planet IT (1080p) [Geo-blocked]
 Mediaset Extra [Geo-blocked]
 MediterraniaTV (1080p)
+Medjugorje Italia TV (480p)
 NTN (Italy) (720p)
 Otto Channel (480p)
 Paradise TV [Geo-blocked]
@@ -277,14 +286,14 @@ Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
 Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
-Quarto Canale Flegreo (720p)
-Radio Iglesias (576p) [Geo-blocked]
 Radio TV Serie A
+Rai 2 HD (720p)
 Rai 4 (576p)
+Rai 4 HD (720p)
 Rai Gulp (1080p)
 Rai News 24 (720p)
-Rai Premium
 Rai Scuola (576p) [Geo-blocked]
+Rakuten TV Top Movies Italy (1080p)
 Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
@@ -297,6 +306,7 @@ Super TV Oristano (720p) [Not 24/7]
 SuperTennis (1080p)
 T9 (288p)
 Teatro TV (720p)
+Tele Liguria Sud (576p)
 Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
 Tele Radio Sciacca (240p) [Not 24/7]
@@ -311,7 +321,6 @@ Telenord (Italy) (576p) [Not 24/7]
 Telepavia (720p)
 Telestense (720p)
 Telesud Trapani (720p) [Not 24/7]
-Teletricolore (480p) [Not 24/7]
 Televallo (576p)
 TeleVenezia (576p)
 Top Crime [Geo-blocked]
