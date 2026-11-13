@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 736
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 403
-Link da verificare nel player: 333
+Link che rispondono al test: 426
+Link da verificare nel player: 310
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -53,7 +53,6 @@ Rai 4K
 4 You Tv
 Abc Tv
 AB Channel
-Alpauno
 Antenna 3 Veneto Nord Est
 Antenna Sud
 Antenna Sud Extra
@@ -61,7 +60,6 @@ Arte Network Orler
 Azzurra Tv Vco
 Basilicata 1 Tv
 Bergamo Tv
-BOM Channel
 ByoBlu
 Calabria Uno Tv
 Calabria tv
@@ -76,13 +74,11 @@ Cusano News 7
 Delta Tv
 Donna Shopping Tv
 Easy Tv Canale 190
-Entella Tv
 EQUtv
 Equos Tv
 è Tv Marche
 è Tv Rete7
 è Tv Umbria
-Euro Tv
 Extra Tv
 FM Tv Marche
 Fano Tv
@@ -104,14 +100,13 @@ Love in Venice
 Lucania Tv
 Matrix Tv
 Mediterranea Tv
-Medjugorje Italia Tv
 Medjugorje Tv Puglia
 Motori Tv
 NTI Canale 271
 News24 City
 Nuova TV Nazionale
+Nuova Tv 1
 Nuova Tv 2
-Nuvola Tv
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -120,9 +115,8 @@ Otto Channel
 Paradise Tv
 Parole di Vita
 Partenope Tv
-Peer Tv Alto Adige
 Pop Tv
-PrimaFREE
+Prima Tv Sicilia
 Primantenna Torino
 Primocanale
 Radio Immagine Tv
@@ -141,7 +135,6 @@ RTC Quarta Rete
 RTC Telecalabria
 RTI Calabria
 RTL 102.5 + Plus
-RTM Manduria
 RTR99 Tv
 SL 48 Tv
 ST Europe Channel
@@ -199,7 +192,6 @@ Teleiblea
 Teleitalia 41
 Telejato
 Teleleonessa
-TeleMajg
 TeleRegione
 TeleRegione Color
 TeleRegione Live
@@ -234,12 +226,10 @@ Video Star Tv Sicilia
 Video Touring Tv
 Videolina
 Videotelecarnia
-Vintage Radio Tv
 Vuemme Tv
 Webcom Tv
 Yvii Tv
 Zerouno Tv Music
-Zerouno Tv News
 Radio Colonna Tv
 Euronews Italiano
 TRM h24
@@ -247,12 +237,12 @@ Teleroma 56
 TeleRadioStereo
 7 RadioVisione (720p)
 20 [Geo-blocked]
+50 Canale
 Adnkronos (720p)
 Alma TV (576p)
 Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
-Bom Channel (720p)
 BTL TV (Netherlands) (1080p)
 Canale 5 [Geo-blocked]
 Canale 5 HD
@@ -260,10 +250,8 @@ Canale Dieci (540p) [Not 24/7]
 Cine34 [Geo-blocked]
 Cine34 HD (1080p)
 Donna TV (480p)
-Entella TV (720p) [Not 24/7]
 eTv Marche (720p)
 eTv Rete 7 (720p)
-Euro TV (Italy) (720p) [Not 24/7]
 Fano TV (1080p)
 GO-TV Canale 163 (720p)
 Gold TV (576p)
@@ -272,7 +260,6 @@ Iris [Geo-blocked]
 Iris HD (1080p)
 Italia 1 [Geo-blocked]
 Italia 7 (576p)
-Iunior TV (1080p)
 La5 [Geo-blocked]
 LA7d (720p)
 La Nuova TV (720p)
@@ -281,21 +268,16 @@ Lazio TV (576p)
 Love The Planet IT (1080p) [Geo-blocked]
 Mediaset Extra [Geo-blocked]
 MediterraniaTV (1080p)
-Medjugorje Italia TV (480p)
 NTN (Italy) (720p)
+Odeon 24 (576p)
 Otto Channel (480p)
-Paci Contemporary Channel (720p)
 Paradise TV [Geo-blocked]
 Passione Lotto (300p)
-Peer TV Alto Adige (1280p)
-Peer TV South Tyrol (1280p)
-Peer TV Sudtirol (1080p)
 Pluto TV Film Ancora Piu Romantici
 Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
-Prima Free (720p)
+Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
-Radio Iglesias (576p) [Geo-blocked]
 Radio TV Serie A
 Rai 4 (576p)
 Rai Gulp (1080p)
@@ -306,14 +288,12 @@ Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
 RTC Telecalabria (720p) [Not 24/7]
-RTM TV (1080p)
 Sportitalia 24 (720p) [Geo-blocked]
+Sportitalia (1080p)
 Sportitalia Motori (720p) [Geo-blocked]
-Sportitalia Solocalcio (1080p)
 Super J TV Teramo (720p)
 Super TV Oristano (720p) [Not 24/7]
 T9 (288p)
-Taurianova TV (720p)
 Teatro TV (720p)
 Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
@@ -322,14 +302,12 @@ Teleacras (576p)
 Telegranda (720p) [Not 24/7]
 Telejato (720p)
 Teleliberta (486p) [Not 24/7]
-TeleMajg (480p)
 Telemolise (1080p)
 teleMonteneve (480p) [Not 24/7]
 Telenord (Italy) (576p) [Not 24/7]
 Telepavia (720p)
 Telestense (720p)
 Telesud Trapani (720p) [Not 24/7]
-TeleTusciaSabina 2000 (576p) [Not 24/7]
 Televallo (576p)
 TeleVenezia (576p)
 Top Crime [Geo-blocked]
@@ -343,7 +321,6 @@ Twentyseven HD (1080p) [Geo-blocked]
 Vera TV (1080p) [Not 24/7]
 Video Rola (1080p)
 Videolina Sardegna (404p) [Not 24/7]
-Visual Radio (576p) [Not 24/7]
 Wedding TV
 
 Errori delle fonti:
