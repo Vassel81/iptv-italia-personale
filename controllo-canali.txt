@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
-Canali pubblicati: 743
+Canali pubblicati: 742
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 419
-Link da verificare nel player: 324
+Link che rispondono al test: 411
+Link da verificare nel player: 331
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -52,6 +52,7 @@ BIKE
 Rai 4K
 Abc Tv
 AB Channel
+Alpauno
 Antenna 3 Massa
 Antenna 3 Veneto Nord Est
 Antenna Sud
@@ -60,6 +61,7 @@ Arte Network Orler
 Azzurra Tv Vco
 Basilicata 1 Tv
 Bergamo Tv
+BOM Channel
 ByoBlu
 Calabria Uno Tv
 Calabria tv
@@ -77,7 +79,6 @@ Donna Shopping Tv
 Easy Tv Canale 190
 EQUtv
 Equos Tv
-Etna Espresso Channel
 è Tv Marche
 è Tv Rete7
 è Tv Umbria
@@ -109,6 +110,7 @@ NTI Canale 271
 News24 City
 Nuova TV Nazionale
 Nuova Tv 1
+Nuova Tv 2
 Odeon 24
 Ofanto Tv
 Ora Tv
@@ -155,6 +157,7 @@ Tele A
 Tele Arena
 Tele Bari
 Tele Belluno
+Tele Bruzzano
 Tele Chiara
 Tele Cupole
 Tele Estense
@@ -244,6 +247,7 @@ Alma TV (576p)
 Antenna Sud (720p)
 Antenna Sud Extra (720p)
 Antenna Tre (480p) [Geo-blocked]
+Bom Channel (720p)
 Boomerang (Italy)
 BTL TV (Netherlands) (1080p)
 Canale 5 [Geo-blocked]
@@ -253,7 +257,7 @@ Cine34 [Geo-blocked]
 Cine34 HD (1080p)
 DeA Kids
 Donna TV (480p)
-Etna Espresso Channel (720p)
+Entella TV (720p) [Not 24/7]
 eTv Marche (720p)
 eTv Rete 7 (720p)
 Fano TV (1080p)
@@ -265,12 +269,14 @@ Iris [Geo-blocked]
 Iris HD (1080p)
 Italia 1 [Geo-blocked]
 Italia 7 (576p)
+Iunior TV (1080p)
 La5 [Geo-blocked]
 LA7d (720p)
 La Nuova TV (720p)
 Lazio TV (576p)
 Love The Planet IT (1080p) [Geo-blocked]
 MediterraniaTV (1080p)
+Nick Jr. (Italy) (720p)
 like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Italy)
 NTN (Italy) (720p)
 Otto Channel (480p)
@@ -286,9 +292,9 @@ Rai 4 (576p)
 Rai Gulp (1080p)
 Rai News 24 (720p)
 Rai Scuola (576p) [Geo-blocked]
-Rai Sport
 Rakuten TV Action Movies Italy (1080p)
 Rakuten TV Comedy Movies Italy (1080p)
+Rakuten TV Drama Movies Italy (1080p)
 Rakuten TV Top Movies Italy (1080p)
 Retemia (720p) [Not 24/7]
 Reteveneta (480p)
@@ -307,6 +313,7 @@ Super J TV Teramo (720p)
 Super TV Oristano (720p) [Not 24/7]
 like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Sports",SuperTennis
 T9 (288p)
+Taurianova TV (720p)
 Teatro TV (720p)
 Tele Pegaso Catania (404p) [Not 24/7]
 Tele Quattro (720p)
