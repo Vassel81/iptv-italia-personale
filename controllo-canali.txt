@@ -1,8 +1,8 @@
 Controllo indicativo dei collegamenti M3U
 Canali pubblicati: 739
 Flussi sportivi alternativi aggiunti: 0
-Link che rispondono al test: 411
-Link da verificare nel player: 328
+Link che rispondono al test: 408
+Link da verificare nel player: 331
 Link sostituiti con alternativa raggiungibile: 0
 
 Nota: un link che risponde non garantisce la riproduzione; un link
@@ -108,9 +108,9 @@ NTI Canale 271
 News24 City
 Nuova TV Nazionale
 Nuova Tv 2
-Nuvola Tv
 Odeon 24
 Ofanto Tv
+Onda Tv Sicilia
 Ora Tv
 Orler Tv
 Otto Channel
@@ -118,7 +118,6 @@ Paradise Tv
 Parole di Vita
 Partenope Tv
 Pop Tv
-Prima Tv Sicilia
 Primantenna Torino
 Primocanale
 Promovideo Tv
@@ -131,6 +130,7 @@ RDE Tv
 Reggio Tv
 Rei Tv
 Rete 8 Vga
+Rete Oro Tv
 Rete Veneta
 Roma Tv 82
 Rossini Tv
@@ -160,6 +160,7 @@ Tele Chiara
 Tele Cupole
 Tele Estense
 Tele Ischia
+Tele Jonio
 Tele Liberta' HD
 Tele Molise
 Tele Nostra
@@ -240,7 +241,6 @@ Teleroma 56
 TeleRadioStereo
 7 RadioVisione (720p)
 20 [Geo-blocked]
-50 Canale (720p)
 Adnkronos (720p)
 Alma TV (576p)
 Antenna Sud (720p)
@@ -254,6 +254,7 @@ Cine34 [Geo-blocked]
 Cine34 HD (1080p)
 DeA Kids
 Donna TV (480p)
+Espansione TV (576p)
 eTv Marche (720p)
 eTv Rete 7 (720p)
 Fano TV (1080p)
@@ -273,13 +274,13 @@ Love The Planet IT (1080p) [Geo-blocked]
 MediterraniaTV (1080p)
 like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Italy)
 NTN (Italy) (720p)
+Onda TV (Italy) (568p)
 Otto Channel (480p)
 Paradise TV [Geo-blocked]
 Passione Lotto (300p)
 Pluto TV Film Ancora Piu Romantici
 Pluto TV Notti di Sangue
 Pluto TV Notti di Terrore
-Prima TV (Italy) (720p)
 PrimAntenna TV (720p)
 Promovideo TV (486p)
 Radio Iglesias Sardegna (576p) [Geo-blocked]
@@ -293,6 +294,7 @@ Rakuten TV Comedy Movies Italy (1080p)
 Rakuten TV Drama Movies Italy (1080p)
 Rakuten TV Family Movies Italy (1080p)
 Rakuten TV Top Movies Italy (1080p)
+Rete Oro (720p) [Not 24/7]
 Retemia (720p) [Not 24/7]
 Reteveneta (480p)
 Rossini TV (720p)
@@ -339,6 +341,7 @@ Twentyseven HD (1080p) [Geo-blocked]
 Vera TV (1080p) [Not 24/7]
 Video Rola (1080p)
 Videolina Sardegna (404p) [Not 24/7]
+Visual Radio (576p) [Not 24/7]
 Wedding TV
 
 Errori delle fonti:
